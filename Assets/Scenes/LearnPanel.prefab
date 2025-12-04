@@ -5622,9 +5622,58 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d92c9d31082bd1349b903df94d335958, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  loadingIndicator: {fileID: 0}
   topicNameHeader: {fileID: 2644862283226431714}
+  lessonCounterText: {fileID: 0}
   topicSelectionPanel: {fileID: 8218482666572648427}
   learningModesPanel: {fileID: 6532515297175229672}
+  guidedBuildingButton: {fileID: 0}
+  puzzleChallengeButton: {fileID: 0}
+  backToTopicsButton: {fileID: 0}
+  puzzleLockOverlay: {fileID: 0}
+  puzzleLockMessage: {fileID: 0}
+  queuesCard:
+    button: {fileID: 0}
+    topicName: 
+    progressText: {fileID: 0}
+    progressBar: {fileID: 0}
+    completedBadge: {fileID: 0}
+    lockIcon: {fileID: 0}
+    lessonCountText: {fileID: 0}
+  stacksCard:
+    button: {fileID: 0}
+    topicName: 
+    progressText: {fileID: 0}
+    progressBar: {fileID: 0}
+    completedBadge: {fileID: 0}
+    lockIcon: {fileID: 0}
+    lessonCountText: {fileID: 0}
+  linkedListsCard:
+    button: {fileID: 0}
+    topicName: 
+    progressText: {fileID: 0}
+    progressBar: {fileID: 0}
+    completedBadge: {fileID: 0}
+    lockIcon: {fileID: 0}
+    lessonCountText: {fileID: 0}
+  treesCard:
+    button: {fileID: 0}
+    topicName: 
+    progressText: {fileID: 0}
+    progressBar: {fileID: 0}
+    completedBadge: {fileID: 0}
+    lockIcon: {fileID: 0}
+    lessonCountText: {fileID: 0}
+  graphsCard:
+    button: {fileID: 0}
+    topicName: 
+    progressText: {fileID: 0}
+    progressBar: {fileID: 0}
+    completedBadge: {fileID: 0}
+    lockIcon: {fileID: 0}
+    lessonCountText: {fileID: 0}
+  challengeManager: {fileID: 0}
+  adminApiUrl: https://structureality-admin.onrender.com/api
 --- !u!1 &7121616318601149715
 GameObject:
   m_ObjectHideFlags: 0
